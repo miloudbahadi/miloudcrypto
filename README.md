@@ -1,14 +1,14 @@
  Miloud (MLD) – A Purpose-Driven Token for Peace & Prosperity 🌍
 
-**Miloud (MLD) is a deflationary BEP-20 token built on Binance Smart Chain that combines financial utility with a mission for global peace, empowerment, and community advancement.
+Miloud (MLD) is a deflationary BEP-20 token built on Binance Smart Chain that combines financial utility with a mission for global peace, empowerment, and community advancement.
 
-## 🪙 Token Overview
+ Token Overview
 
-- **Name: Miloud
-- **Symbol: MLD
-- **Network: Binance Smart Chain (BEP-20)
-- **Supply: 1,000,000 MLD (initial)
-- **Tax:3% per transaction
+- Name: Miloud
+- Symbol: MLD
+- Network: Binance Smart Chain (BEP-20)
+- Supply: 1,000,000 MLD (initial)
+- Tax:3% per transaction
 -  1% Burned
 -  1% to Reward Wallet
 -  1% to Treasury (Project Operations)
